@@ -1,0 +1,9 @@
+.direnv/
+
+single-price-grid-component-master/
+
+*.sketch
+*.xd
+*.fig
+
+.DS_Store
