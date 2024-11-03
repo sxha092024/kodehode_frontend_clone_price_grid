@@ -4,7 +4,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## Notes
 
-**Q**: why rem instead of `vh`/`vw` or `%`?
+**Q**: why `rem` instead of `vh`/`vw` or `%`?
 \
 **A**: To more closely match the design previews regardless of viewport size. 
 
